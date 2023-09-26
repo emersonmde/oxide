@@ -34,7 +34,7 @@ Contributions are welcome. Please follow the standard GitHub pull request proces
 ## Resources
 
 - [Phil Opp's Blog on Writing an OS in Rust](https://os.phil-opp.com)
-- [Rust Programming Language Documentation](https://doc.rust-lang.org/)
+- [WIP 3rd edition of Writing an OS in Rust (UEFI support)](https://github.com/phil-opp/blog_os/blob/edition-3/blog/content/edition-3/posts/02-booting/index.md)
 - [OSDev Wiki](https://wiki.osdev.org/)
 
 ## License
